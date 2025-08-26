@@ -1,7 +1,7 @@
 
 
 
-# 💫 About Me:
+# 💫 Hi, I'm Donna 👋:
 🎓 Computer Science Student | 🌐 Aspiring Web Designer<br>💻 Currently learning HTML, CSS, JavaScript, and Python 📚<br>🎨 Exploring Figma for web design ideas
 
 
