@@ -5,6 +5,4 @@
 - 🎨 Exploring Figma for web design ideas
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=comscidnd)](https://github.com/comscidnd/github-readme-stats)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=comscidnd&show_icons=true&theme=radical)
